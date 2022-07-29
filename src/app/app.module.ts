@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './componentes/header/header.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { BannerComponent } from './componentes/banner/banner.component';
+import { AcercaDeComponent } from './componentes/acerca-de/acerca-de.component';
 
 
 @NgModule({
@@ -13,6 +14,7 @@ import { BannerComponent } from './componentes/banner/banner.component';
     AppComponent,
     HeaderComponent,
     BannerComponent,
+    AcercaDeComponent,
   ],
   imports: [
     BrowserModule,

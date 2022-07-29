@@ -1,0 +1,16 @@
+#banner{
+    min-height: 250px;
+}
+
+.content-center {
+    max-width: 800px;
+    margin: o auto 60px auto;
+    text-align: center;
+}
+
+h3 {
+    font-size: 40px;
+    color: white;
+    line-height: 1.8;
+    margin-bottom: 40px;
+}

@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+#banner {
+    background-image: url(../src/assets/Images/gradienta-bKESVqfxass-unsplash.jpg);
+    background-size:cover;
+    padding: top 0;
+}
