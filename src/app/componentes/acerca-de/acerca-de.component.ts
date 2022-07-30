@@ -8,6 +8,7 @@ import { faPen } from '@fortawesome/free-solid-svg-icons';
 })
 export class AcercaDeComponent implements OnInit {
   nombre:string='Marlene Torrealba';
+  cargo:string='Full Stack Developer Jr'
   faPen=faPen;
   constructor() { }
 

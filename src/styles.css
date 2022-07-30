@@ -1,6 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
 #banner {
-    background-image: url(../src/assets/Images/gradienta-bKESVqfxass-unsplash.jpg);
-    background-size:cover;
+    background-image: url(../src/assets/Images/cambio.jpg);
+    background-size:contain;
     padding: top 0;
+}
+
+#about {
+    background-color: antiquewhite;
+    border-bottom-color: black;
+}
+
+#experiencia {
+    background-color: darkgrey;
+}
+
+fa-icon {
+    font-size: 14px;
 }

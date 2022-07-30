@@ -1,5 +1,6 @@
 #banner{
-    min-height: 250px;
+    min-height: 300px;
+    text-align: center;
 }
 
 .content-center {
