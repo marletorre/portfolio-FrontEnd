@@ -8,6 +8,12 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { BannerComponent } from './componentes/banner/banner.component';
 import { AcercaDeComponent } from './componentes/acerca-de/acerca-de.component';
 import { ExperienciaComponent } from './componentes/experiencia/experiencia.component';
+import { EducacionComponent } from './componentes/educacion/educacion.component';
+import { SkillsComponent } from './componentes/skills/skills.component';
+import { ProyectosComponent } from './componentes/proyectos/proyectos.component';
+import { FooterComponent } from './componentes/footer/footer.component';
+
+
 
 
 @NgModule({
@@ -17,6 +23,10 @@ import { ExperienciaComponent } from './componentes/experiencia/experiencia.comp
     BannerComponent,
     AcercaDeComponent,
     ExperienciaComponent,
+    EducacionComponent,
+    SkillsComponent,
+    ProyectosComponent,
+    FooterComponent,
   ],
   imports: [
     BrowserModule,

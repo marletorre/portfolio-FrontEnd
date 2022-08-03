@@ -2,18 +2,21 @@
 #banner {
     background-image: url(../src/assets/Images/cambio.jpg);
     background-size:contain;
-    padding: top 0;
 }
 
-#about {
+#about, #education, #projects {
     background-color: antiquewhite;
-    border-bottom-color: black;
+    padding: 14px 15px;
 }
 
-#experiencia {
+#experiencia,#skills {
     background-color: darkgrey;
+    padding: 30px 30px;
 }
 
+.container-center {
+    max-width: 400px;
+}
 fa-icon {
     font-size: 14px;
 }
